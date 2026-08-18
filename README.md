@@ -22,7 +22,11 @@ Add your demo video/GIF here. A few common options:
    embed markup for you.
 -->
 
-[🎥 Watch the Demo](demo.mp4)
+
+
+https://github.com/user-attachments/assets/c07cd6dd-12c8-4453-b21c-b02480a74eab
+
+
 
 *A quick walkthrough of the dashboard: entering a ticker, viewing the live forecast + sentiment signal, and chatting with the RAG investment assistant in both English and Hinglish.*
 
